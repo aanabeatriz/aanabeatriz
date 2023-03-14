@@ -1,10 +1,3 @@
-<div align="center">
-
-Me chamo `Ana Beatriz` e tenho ``17 anos``.
-
-Estou cursando o 3° ano do ensino médio de informática no ``IFSP``
-<div>
-
 ##   
 <div>
     <a href="https://github.com/aanabeatriz"><img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=aanabeatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
