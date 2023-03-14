@@ -1,10 +1,8 @@
-## Quem eu sou 
-
 <div align="center">
 
 Me chamo `Ana Beatriz` e tenho ``17 anos``.
 
-Estou cursando o 3° ano do ensino médio de informática no 'IFSP'
+Estou cursando o 3° ano do ensino médio de informática no ``IFSP``
 <div>
 
 ##   
